@@ -1,0 +1,16 @@
+
+Enter a username when prompted and start chatting.
+
+3. **Multiple Clients**
+
+You can open multiple terminals and run `client.py` to simulate multiple users.
+
+## Notes
+
+- The server must be running before starting any clients.
+- IP and Port should match between server and client (`127.0.0.1` and `10500` by default).
+- This is a console-based app meant for learning socket programming concepts.
+
+## Author
+
+Chamal Promoddya
